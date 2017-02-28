@@ -32,8 +32,19 @@ function searchForScript(path){
     });
 }
 
+function runScript(scriptName){
+    const launcher = require(`./defis/${scriptName}/script.js`);
+    launcher.launch();
 
-searchForScript('./src/defis');
+}
+
+if(process.argv.length > 2){
+    runScript(process.argv[2]);
+}else{
+    searchForScript('./src/defis');
+}
+
+
 
 
 

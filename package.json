@@ -13,10 +13,12 @@
     "clear": "0.0.1",
     "clui": "0.3.1",
     "figlet": "1.2.0",
+    "get-pixels": "3.3.0",
     "inquirer": "3.0.5",
     "mathjs": "3.9.3",
     "memoizee": "0.4.3",
-    "numbers": "^0.6.0"
+    "numbers": "0.6.0",
+    "save-pixels": "2.3.4"
   },
   "devDependencies": {}
 }

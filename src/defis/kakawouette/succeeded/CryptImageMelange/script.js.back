@@ -1,0 +1,110 @@
+const fs = require("fs");
+const ndOps = require("ndarray-ops");
+const ndarrayPack = require("ndarray-pack");
+const ndarrayUnpack = require("ndarray-unpack");
+
+const getPixels = require('get-pixels');
+const savePixels = require('save-pixels');
+const pool = require("ndarray-scratch")
+// const SLICES = [47, 43, 41, 37, 31, 29, 23, 19, 17, 13, 11, 7, 5, 3, 2];
+// const SLICES = [2,3,5,7];
+const SLICES = [7,5,3,2];
+// const IN = "./src/defis/kakawouette/cryptimagemelange/in.png";
+// const OUT = "./src/defis/kakawouette/cryptimagemelange/out.png";
+const IN = "./src/defis/kakawouette/cryptimagemelange/in_sample.png";
+const OUT = "./src/defis/kakawouette/cryptimagemelange/out_sample.png";
+const DEBUG_OUT = "./src/defis/kakawouette/cryptimagemelange/debug";
+
+function computeSens(sens){
+    if(sens === 'H'){
+        return sens = 'V';
+    }else{
+        return sens = 'H';
+    }
+}
+
+function copyImage(dest,source,offsetX,offsetY){
+    console.log(source.shape + ' - ' + offsetX + ' - ' + offsetY)
+    //Get array shape
+    var nx = source.shape[0],
+        ny = source.shape[1];
+    //Loop over all cells
+    for(var x=0; x<nx; ++x) {
+        for(var y=0; y<ny; ++y) {
+            // console.log(offsetX + x, offsetY + y,x,y)
+            dest.set(offsetX + x, offsetY + y, 0, source.get(x, y, 0));
+            dest.set(offsetX + x, offsetY + y, 1, source.get(x, y, 1));
+            dest.set(offsetX + x, offsetY + y, 2, source.get(x, y, 2));
+            dest.set(offsetX + x, offsetY + y, 3, 255);
+        }
+    }
+}
+
+function shuffleImage(pixels,horizontal) {
+    const width = pixels.shape[0];
+    const height = pixels.shape[1];
+    let tmp = [];
+    let lastSlice = horizontal ? width : height;
+    SLICES.forEach((slice) => {
+        const xLo = horizontal ? lastSlice : 0;
+        const yLo = !horizontal ?  lastSlice-slice : 0;
+        const xHi = horizontal ? slice : width;
+        const yHi = !horizontal ? slice : height;
+        console.log(xLo,yLo,xHi,yHi);
+        const pixelObj = {
+            slice,
+            // lastSlice: lastSlice,
+            pixels:
+                ndarrayPack(
+                    ndarrayUnpack(
+                        pixels.lo(
+                            xLo,
+                            yLo
+                        ).hi(
+                            xHi,
+                            yHi
+                        )
+                    )
+                )
+        };
+        tmp.push(pixelObj);
+        var outFile = fs.createWriteStream(DEBUG_OUT+'/'+slice+'.png');
+        savePixels(tmp[tmp.length-1].pixels, "png").pipe(outFile);
+        lastSlice -= slice;
+    });
+
+    lastSlice = horizontal ? width : height;
+    tmp.forEach((sliceObj) => {
+        const offsetX = horizontal ? 0 + (lastSlice - sliceObj.slice) : 0;
+        const offsetY = !horizontal ? 0 + (lastSlice - sliceObj.slice) : 0;
+        // console.log(sliceObj.slice + ' : '+offsetX + ' - '+offsetY);
+        copyImage(pixels, sliceObj.pixels, offsetX, offsetY);
+        lastSlice -= sliceObj.slice
+    });
+}
+module.exports =  {
+    launch : () => {
+        let sens = computeSens();
+
+        getPixels(IN, function(err, pixels) {
+
+            console.log("V")
+            shuffleImage(pixels,false);
+            // console.log("V")
+            // shuffleImage(pixels,false);
+            // console.log("V")
+            // shuffleImage(pixels,false);
+            // console.log("H")
+            // shuffleImage(pixels,true);
+            // console.log("H")
+            // shuffleImage(pixels,true);
+            // console.log("H")
+            // shuffleImage(pixels,true);
+
+            const outFile = fs.createWriteStream(OUT);
+            savePixels(pixels, "png").pipe(outFile);
+
+        })
+
+    }
+};

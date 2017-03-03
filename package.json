@@ -18,6 +18,7 @@
     "inquirer": "3.0.5",
     "mathjs": "3.9.3",
     "memoizee": "0.4.3",
+    "ndarray-scratch": "^1.2.0",
     "numbers": "0.6.0",
     "save-pixels": "2.3.4"
   },

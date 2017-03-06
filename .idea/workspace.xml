@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85fc7630-04a7-43d3-b719-7b7978228033" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in_sample.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out_sample.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js.back" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/CryptImageMelange/out.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/CryptImageMelange/script.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/Kakawouette/succeeded/SpymasterBomb/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/CryptImageMelange/in.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in.png" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,50 +25,63 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js">
+        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+            <state relative-caret-position="1938">
+              <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="script.js.back" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js.back">
+        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/script.js.back">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="in_sample.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in_sample.png">
+        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/in_sample.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="out_sample.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out_sample.png">
+        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/out_sample.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="in.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in.png">
+        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/in.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="out.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/sample/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/SpymasterBomb/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -114,6 +119,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/defis/Kakawouette/CryptImageMelange/script.js" />
         <option value="$PROJECT_DIR$/src/defis/kakawouette/CryptImageMelange/script.js" />
+        <option value="$PROJECT_DIR$/src/defis/Kakawouette/SpymasterBomb/script.js" />
       </list>
     </option>
   </component>
@@ -135,10 +141,20 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="59" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1869" />
+    <option name="width" value="1861" />
     <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -156,7 +172,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -164,6 +179,12 @@
               <option name="myItemId" value="NyanUp-2017" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NyanUp-2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="NyanUp-2017" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -201,7 +222,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="kakawouette" />
+              <option name="myItemId" value="Kakawouette" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -227,15 +248,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="kakawouette" />
+              <option name="myItemId" value="Kakawouette" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="succeeded" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CryptImageMelange" />
+              <option name="myItemId" value="sample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,7 +274,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="kakawouette" />
+              <option name="myItemId" value="Kakawouette" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,6 +298,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,15 +314,17 @@
     <property name="js.last.introduce.type" value="CONST" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\CryptImageMelange" />
-      <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\KryptoniteSuperman" />
-      <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\Atcha" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Thibaud\workspace\NyanUp-2017\src\defis\Kakawouette\succeeded" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\succeeded" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\Kakawouette" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Thibaud\workspace\NyanUp-2017\src\defis\Kakawouette\SpymasterBomb" />
+      <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\CryptImageMelange" />
+      <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\KryptoniteSuperman" />
+      <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\Atcha" />
     </key>
   </component>
   <component name="RunManager">
@@ -315,12 +335,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -384,33 +398,34 @@
       <workItem from="1488221039838" duration="22136000" />
       <workItem from="1488537563678" duration="8813000" />
       <workItem from="1488575505549" duration="7253000" />
+      <workItem from="1488801659691" duration="251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38202000" />
+    <option name="totallyTimeSpent" value="38453000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="-8" width="1869" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1861" height="1096" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2583288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2578168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30944964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30912864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,50 +447,39 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/out.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/2.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/2.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/3.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/5.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/7.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/in.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/3.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/in_sample.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/5.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/in_sample.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in_sample.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in_sample.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/out.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -483,58 +487,54 @@
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-          <folding />
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/atcha/sample/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/Atcha/sample/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-          <folding />
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/sample/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/sample/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="57" lean-forward="false" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/out.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/in.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/atcha/sample/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/Atcha/sample/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-          <folding />
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -545,16 +545,14 @@
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-          <folding />
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -562,133 +560,81 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/sample/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/41.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/37.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/31.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/29.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/17.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/13.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/19.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/47.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/43.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/23.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/11.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/41.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/37.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/31.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/29.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/17.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/13.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/19.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/47.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/43.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/23.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/11.png" />
     <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/CryptImageMelange/debug/0.png" />
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in_sample.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/in_sample.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js.back">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/7.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/5.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/3.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/debug/2.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/script.js.back">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in_sample.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/in_sample.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+        <state relative-caret-position="1938">
+          <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/out_sample.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out_sample.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/out.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/in.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/sample/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/SpymasterBomb/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

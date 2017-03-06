@@ -21,6 +21,7 @@
     "ndarray-pack": "^1.2.1",
     "ndarray-scratch": "^1.2.0",
     "ndarray-unpack": "^1.0.0",
+    "node-fetch": "^1.6.3",
     "numbers": "0.6.0",
     "save-pixels": "2.3.4"
   },

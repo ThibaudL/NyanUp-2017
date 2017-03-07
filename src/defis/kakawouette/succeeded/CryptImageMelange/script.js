@@ -1,19 +1,19 @@
 const fs = require("fs");
-const ndOps = require("ndarray-ops");
+// const ndOps = require("ndarray-ops");
 const ndarrayPack = require("ndarray-pack");
 const ndarrayUnpack = require("ndarray-unpack");
 
 const getPixels = require('get-pixels');
 const savePixels = require('save-pixels');
-const pool = require("ndarray-scratch")
+// const pool = require("ndarray-scratch")
 const SLICES = [47, 43, 41, 37, 31, 29, 23, 19, 17, 13, 11, 7, 5, 3, 2];
 // const SLICES = [2,3,5,7];
 // const SLICES = [7,5,3,2];
-const IN = "./src/defis/kakawouette/cryptimagemelange/in.png";
-const OUT = "./src/defis/kakawouette/cryptimagemelange/out.png";
-// const IN = "./src/defis/kakawouette/cryptimagemelange/in_sample.png";
-// const OUT = "./src/defis/kakawouette/cryptimagemelange/out_sample.png";
-const DEBUG_OUT = "./src/defis/kakawouette/cryptimagemelange/debug";
+const IN = "./src/defis/kakawouette/succeeded/cryptimagemelange/in.png";
+const OUT = "./src/defis/kakawouette/succeeded/cryptimagemelange/out.png";
+// const IN = "./src/defis/kakawouette/succeeded/cryptimagemelange/in_sample.png";
+// const OUT = "./src/defis/kakawouette/succeeded/cryptimagemelange/out_sample.png";
+const DEBUG_OUT = "./src/defis/kakawouette/succeeded/cryptimagemelange/debug";
 
 function computeSens(sens){
     if(sens === 'H'){

@@ -45,9 +45,6 @@ module.exports = {
         });
 
         lineReader.on('line', (line) => {
-
-            // logger.debug(maxUsedLetter(line));
-            // logger.debug(getDelta(maxUsedLetter(line)));
             const decodedMessage = moveALl(line,-1*getDelta(maxUsedLetter(line)));
             if(decodedMessage.includes("SECRET") && decodedMessage.includes("TROUVER")){
                 logger.debug("This is the answer : ",decodedMessage);

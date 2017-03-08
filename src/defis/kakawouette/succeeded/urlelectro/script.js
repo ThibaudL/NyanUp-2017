@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const logger = require("../../../utils/logger");
+const logger = require("../../../../utils/logger");
 
 const FIRST_URL = "https://callicode.fr/pydefis/UrlElectro/code/A1aA0EefCC";
 

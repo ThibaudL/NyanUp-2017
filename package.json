@@ -5,7 +5,7 @@
   "author": "Thibaud Lamarche",
   "scripts": {
     "start": "node src/index.js",
-    "test" : "mocha"
+    "test": "mocha"
   },
   "main": "src/index.js",
   "dependencies": {
@@ -16,6 +16,7 @@
     "clui": "0.3.1",
     "figlet": "1.2.0",
     "get-pixels": "3.3.0",
+    "htmlparser": "^1.7.7",
     "inquirer": "3.0.5",
     "mathjs": "3.9.3",
     "memoizee": "0.4.3",

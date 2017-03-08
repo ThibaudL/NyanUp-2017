@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="85fc7630-04a7-43d3-b719-7b7978228033" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,67 +25,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3-10.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-10.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-3.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-3.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-12.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-12.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1-10.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-10.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="0-0.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/0-0.png">
+      <file leaf-file-name="captcha1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha1.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/script.js">
+        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+            <state relative-caret-position="153">
+              <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/0-1.png">
+      <file leaf-file-name="captcha5_letters.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha5_letters.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/0-1.png">
+      <file leaf-file-name="captcha0.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha0.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="captcha0_letters.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha0_letters.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -104,6 +76,8 @@
     <findStrings>
       <find>O</find>
       <find>99</find>
+      <find>console.log</find>
+      <find>base64_decode</find>
     </findStrings>
     <replaceStrings>
       <replace>W</replace>
@@ -126,10 +100,10 @@
         <option value="$PROJECT_DIR$/src/defis/kakawouette/CryptImageMelange/script.js" />
         <option value="$PROJECT_DIR$/src/defis/Kakawouette/SpymasterBomb/script.js" />
         <option value="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/test.js" />
-        <option value="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/script.js" />
         <option value="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/script.js" />
+        <option value="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js" />
       </list>
     </option>
   </component>
@@ -151,20 +125,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="59" />
     <option name="y" value="-8" />
-    <option name="width" value="1861" />
+    <option name="width" value="1869" />
     <option name="height" value="1096" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -181,6 +145,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,12 +154,6 @@
               <option name="myItemId" value="NyanUp-2017" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NyanUp-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="NyanUp-2017" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -231,7 +191,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kakawouette" />
+              <option name="myItemId" value="kakawouette" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -253,7 +213,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kakawouette" />
+              <option name="myItemId" value="kakawouette" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -279,7 +239,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kakawouette" />
+              <option name="myItemId" value="kakawouette" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -309,7 +269,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kakawouette" />
+              <option name="myItemId" value="kakawouette" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -335,7 +295,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kakawouette" />
+              <option name="myItemId" value="kakawouette" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -367,8 +327,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -408,6 +366,12 @@
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -489,6 +453,7 @@
       <workItem from="1488801659691" duration="251000" />
       <workItem from="1488831142322" duration="1600000" />
       <workItem from="1488887860704" duration="4223000" />
+      <workItem from="1488914347250" duration="10100000" />
     </task>
     <servers />
   </component>
@@ -525,20 +490,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44276000" />
+    <option name="totallyTimeSpent" value="54376000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1861" height="1096" extended-state="6" />
+    <frame x="59" y="-8" width="1869" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25726825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25723648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883817" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30809128" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2897196" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -569,262 +534,191 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/test.js" />
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/letters.jpg">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/icons.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0-0.jpg">
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-14.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-0.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-8.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-9.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-10.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/2-11.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-0.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-1.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-14.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-0.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-1.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-13.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/2-10.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/3-1.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/3-7.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-0.png" />
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/letters/2-9.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/letters/3-2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/letters/4-7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/letters/0-14.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/letters/1-10.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/letters/2-13.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/letters/3-10.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/icons/3-10.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/icons/3-3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/icons/2-12.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/icons/2-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/icons/1-10.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/icons/0-0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/letters/0-0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/icons/0-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/letters/0-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/3-10.jpg">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/3-1.jpg">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha1_letters.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/8-14.jpg">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/succeeded/CryptImageMelange/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha3_letters.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha4_letters.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha2_letters.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha-1_letters.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha5_letters.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha0_letters.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/3-9.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/4-5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-11.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-13.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/2-0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/2-1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/2-8.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/icons.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-14.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-8.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-9.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-10.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/2-11.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-14.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-13.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/2-10.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/3-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/3-7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-9.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/0-14.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-10.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-13.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-10.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-10.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-12.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-10.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/0-0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/0-0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/0-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/0-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        <state relative-caret-position="153">
+          <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
           <folding />
         </state>
       </provider>

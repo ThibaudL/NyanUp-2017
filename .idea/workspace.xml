@@ -2,17 +2,195 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85fc7630-04a7-43d3-b719-7b7978228033" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/logger.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha0.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha1.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha2.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha3.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha4.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha5.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/ICONS_SYMBOL_sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/icons.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/letters.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/symbol-and-icon-final-a3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/script.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/ICONS_SYMBOL_sm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/0-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/0-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/0-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/1-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/2-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/3-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/4-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/5-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/6-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/6-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/6-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/7-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/7-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/7-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/7-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/7-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/7-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/8-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/8-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/8-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/8-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/8-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/icons/8-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/0-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/0-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/0-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/1-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/2-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/3-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/4-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/5-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/6-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/6-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/6-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/7-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/7-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/7-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/7-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/7-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/7-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/8-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/8-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/8-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/8-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/8-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/letters/8-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/symbol-and-icon-final-a3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha0_letters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha1_letters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha2_letters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha3_letters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha4_letters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha5_letters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/icons.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/letters.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs.log" afterPath="$PROJECT_DIR$/logs.log" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,23 +211,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="captcha1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitattributes">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +221,38 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="logs.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="292" column="49" lean-forward="false" selection-start-line="292" selection-start-column="49" selection-end-line="292" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icons.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/icons.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="logger.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utils/logger.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="408">
+              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -80,11 +268,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -109,11 +297,16 @@
       <find>GOOD PASSWORD</find>
       <find>console.log</find>
       <find>logger.debug</find>
+      <find>kakawouette/bruteforcecaptcha</find>
+      <find>kakawouette/suceeded</find>
+      <find>PASSWORD_COUNT</find>
     </findStrings>
     <replaceStrings>
       <replace>W</replace>
       <replace>logger.debug</replace>
       <replace>logger.info</replace>
+      <replace>kakawouette/suceeded/bruteforcecaptcha</replace>
+      <replace>kakawouette/succeeded</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -140,6 +333,7 @@
         <option value="$PROJECT_DIR$/src/utils/logger.js" />
         <option value="$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js" />
         <option value="$PROJECT_DIR$/logs.log" />
+        <option value="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/script.js" />
       </list>
     </option>
   </component>
@@ -181,8 +375,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,6 +465,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="succeeded" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NyanUp-2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NyanUp-2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="defis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kakawouette" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="succeeded" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="BruteforceCaptcha" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -290,6 +514,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="defis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atcha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,10 +551,10 @@
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\CryptImageMelange" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\succeeded" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\BruteforceCaptcha" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\test" />
       <recent name="C:\Thibaud\workspace\NyanUp-2017\src\defis\Kakawouette\succeeded" />
-      <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\succeeded" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\Kakawouette" />
     </key>
   </component>
@@ -421,7 +653,8 @@
       <workItem from="1488801659691" duration="251000" />
       <workItem from="1488831142322" duration="1600000" />
       <workItem from="1488887860704" duration="4223000" />
-      <workItem from="1488914347250" duration="15708000" />
+      <workItem from="1488914347250" duration="15889000" />
+      <workItem from="1488987934329" duration="322000" />
     </task>
     <servers />
   </component>
@@ -458,7 +691,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59984000" />
+    <option name="totallyTimeSpent" value="60487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="-8" width="1869" height="1096" extended-state="6" />
@@ -467,20 +700,20 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25723648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883817" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32398754" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883817" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,9 +735,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-10.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/2-11.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-0.jpg" />
     <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-1.png" />
     <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/0-14.png" />
     <entry file="file://$PROJECT_DIR$/src/defis/Kakawouette/BruteforceCaptcha/debug/1-0.png" />
@@ -598,7 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,11 +876,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha-1_letters.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha-1_letters.png" />
     <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/debug/captcha5_letters.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -672,14 +897,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="5860" column="43" lean-forward="false" selection-start-line="5860" selection-start-column="43" selection-end-line="5860" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out.txt" />
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -688,18 +906,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/logger.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="408">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="66" column="25" lean-forward="false" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/ICONS_SYMBOL_sm.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/icons.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="292" column="49" lean-forward="false" selection-start-line="292" selection-start-column="49" selection-end-line="292" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -712,26 +963,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs.log">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
           <folding />
         </state>
       </provider>

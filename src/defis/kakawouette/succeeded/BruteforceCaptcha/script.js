@@ -7,10 +7,10 @@ const ndarrayPack = require("ndarray-pack");
 const ndarrayUnpack = require("ndarray-unpack");
 const getPixels = require('get-pixels');
 const savePixels = require('save-pixels');
-const logger = require("../../../utils/logger");
+const logger = require("../../../../utils/logger");
 
-const ICONS = "./src/defis/kakawouette/bruteforcecaptcha/ICONS_SYMBOL_sm.png";
-// const LETTERS = "./src/defis/kakawouette/bruteforcecaptcha/letters.jpg";
+const ICONS = "./src/defis/kakawouette/succeeded/bruteforcecaptcha/ICONS_SYMBOL_sm.png";
+// const LETTERS = "./src/defis/kakawouette/succeeded/bruteforcecaptcha/letters.jpg";
 
 const URL = "https://callicode.fr/pydefis/BruteforceCaptcha/hydra/GRAAUEVJEQQbAAQcDwAEFRY=/";
 const LOGIN = "redskull";
@@ -49,7 +49,7 @@ const letters = [
 let PASSWORD_COUNT = 0;
 let PASSWORD_BASE = 5000;
 let bascule = 1;
-let count = 4195;
+let count = 0;
 
 function tryLogin(captcha,login,password){
     fetch(`${URL}validate_login?captcha=${captcha}&login=${login}&password=${password}`).then(function(response) {
@@ -89,7 +89,7 @@ function resolveCaptcha(path,login,password){
         ];
         const destCoordinates = [];
         captchas.forEach((c,index) => {
-            const outFile = fs.createWriteStream(`./src/defis/kakawouette/bruteforcecaptcha/debug/captcha${index}.png`);
+            const outFile = fs.createWriteStream(`./src/defis/kakawouette/succeeded/bruteforcecaptcha/debug/captcha${index}.png`);
             savePixels(c, "png").pipe(outFile);
         });
         getPixels(ICONS, function (err, pixels) {
@@ -115,7 +115,7 @@ function resolveCaptcha(path,login,password){
                             }
                         });
 
-                        // const outFile = fs.createWriteStream(`./src/defis/kakawouette/bruteforcecaptcha/debug/icons/${l}-${c}.png`);
+                        // const outFile = fs.createWriteStream(`./src/defis/kakawouette/succeeded/bruteforcecaptcha/debug/icons/${l}-${c}.png`);
                         // savePixels(icon, "png").pipe(outFile);
                     }
                 })
@@ -146,13 +146,13 @@ function resolveCaptcha(path,login,password){
             //             );
             //             destCoordinates.forEach((coords) => {
             //                 if(coords.x === x && coords.y === y-offsetLetters){
-            //                     const outFile = fs.createWriteStream(`./src/defis/kakawouette/bruteforcecaptcha/debug/captcha${coords.index}_letters.png`);
+            //                     const outFile = fs.createWriteStream(`./src/defis/kakawouette/succeeded/bruteforcecaptcha/debug/captcha${coords.index}_letters.png`);
             //                     savePixels(icon, "png").pipe(outFile);
             //                 }
             //             });
             //
             //
-            //             // const outFile = fs.createWriteStream(`./src/defis/kakawouette/bruteforcecaptcha/debug/letters/${l}-${c}.png`);
+            //             // const outFile = fs.createWriteStream(`./src/defis/kakawouette/succeeded/bruteforcecaptcha/debug/letters/${l}-${c}.png`);
             //             // savePixels(icon, "png").pipe(outFile);
             //         }
             //     })
@@ -203,9 +203,9 @@ function bruteForce() {
             parser.parseComplete(text);
             const list = [];
             searchImages(handler.dom[1], list);
-            const img = base64_decode(list[1].data.substring(0, list[1].data.length - 1).replace("img src=\"data:image/png;base64,", ""), "./src/defis/kakawouette/bruteforcecaptcha/debug/captcha.png")
+            const img = base64_decode(list[1].data.substring(0, list[1].data.length - 1).replace("img src=\"data:image/png;base64,", ""), "./src/defis/kakawouette/succeeded/bruteforcecaptcha/debug/captcha.png")
 
-            resolveCaptcha("./src/defis/kakawouette/bruteforcecaptcha/debug/captcha.png", LOGIN, String("0000" + PASSWORD_COUNT).slice(-4));
+            resolveCaptcha("./src/defis/kakawouette/succeeded/bruteforcecaptcha/debug/captcha.png", LOGIN, String("0000" + PASSWORD_COUNT).slice(-4));
         })
         .catch(function (error) {
             logger.info('Request failed', error)

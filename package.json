@@ -26,7 +26,8 @@
     "ndarray-unpack": "^1.0.0",
     "node-fetch": "^1.6.3",
     "numbers": "0.6.0",
-    "save-pixels": "2.3.4"
+    "save-pixels": "2.3.4",
+    "winston": "^2.3.1"
   },
   "devDependencies": {}
 }

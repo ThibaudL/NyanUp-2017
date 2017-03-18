@@ -2,9 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85fc7630-04a7-43d3-b719-7b7978228033" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Matrix/in.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Matrix/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito01Lion/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito11Pommes/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/QuadrilleVille/data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/QuadrilleVille/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/SpymasterBomb/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/CollectorAltitude/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/CollectorAltitude/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/Hercule06Oiseaux/in.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Hercule06Oiseaux/in.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/Hercule06Oiseaux/out.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Hercule06Oiseaux/out.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/Hercule06Oiseaux/red.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Hercule06Oiseaux/red.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/Hercule06Oiseaux/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Hercule06Oiseaux/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/Herculito10Boeufs/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Herculito10Boeufs/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/MatrixRevolutions/in.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/MatrixRevolutions/in.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/MatrixRevolutions/in_sample.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/MatrixRevolutions/in_sample.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/MatrixRevolutions/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/MatrixRevolutions/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/SteganoTexte/in.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/SteganoTexte/in.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/SteganoTexte/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/SteganoTexte/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/TriangleAtomes/in.txt" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/TriangleAtomes/in.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/abandonned/TriangleAtomes/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/TriangleAtomes/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/ICONS_SYMBOL_sm.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/ICONS_SYMBOL_sm.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/debug/captcha.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/debug/captcha.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/debug/captcha0.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/debug/captcha0.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/debug/captcha1.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/debug/captcha1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/debug/captcha2.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/debug/captcha2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/debug/captcha3.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/debug/captcha3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/debug/captcha4.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/debug/captcha4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/debug/captcha5.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/debug/captcha5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/icons.jpg" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/icons.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/letters.jpg" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/letters.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/symbol-and-icon-final-a3.jpg" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/symbol-and-icon-final-a3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/test.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/test.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/CryptImageMelange/in.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/in_sample.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/CryptImageMelange/in_sample.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/CryptImageMelange/out.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/out_sample.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/CryptImageMelange/out_sample.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/CryptImageMelange/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js.back" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/CryptImageMelange/script.js.back" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Desamorcage01/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Desamorcage01/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Hercule05Ecuries/in.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Hercule05Ecuries/in.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Hercule05Ecuries/out.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Hercule05Ecuries/out.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Hercule05Ecuries/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Hercule05Ecuries/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito06Oiseaux/in.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito06Oiseaux/in.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito06Oiseaux/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito06Oiseaux/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/in.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/in.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/in_real.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/in_real.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/left.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/out.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/out.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/right.png" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/LabyrintheDedale/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/LabyrintheDedale/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Matrix/in.txt" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Matrix/in.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Matrix/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Matrix/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Sequence_Cesar/in.txt" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Sequence_Cesar/in.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/Sequence_Cesar/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Sequence_Cesar/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/defis/kakawouette/succeeded/urlelectro/script.js" afterPath="$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/urlelectro/script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,98 +77,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/SteganoTexte/script.js">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/SteganoTexte/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="63" column="45" lean-forward="false" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/SteganoTexte/in.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/sample/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Matrix/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/LabyrintheDedale/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/QuadrilleVille/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-344">
-              <caret line="112" column="18" lean-forward="true" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Matrix/in.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logs.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logger.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utils/logger.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Desamorcage01/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="278">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -321,84 +286,6 @@
               <option name="myItemId" value="kakawouette" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="succeeded" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NyanUp-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NyanUp-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="defis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kakawouette" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NyanUp-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NyanUp-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="defis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kakawouette" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NyanUp-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NyanUp-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="defis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kakawouette" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="abandonned" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -437,11 +324,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\callicode" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\succeeded" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\abandonned" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\BruteforceCaptcha" />
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\test" />
-      <recent name="C:\Thibaud\workspace\NyanUp-2017\src\defis\Kakawouette\succeeded" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Intellij workspace\codingUp2017\NyanUp-2017\src\defis\kakawouette\doing" />
@@ -548,7 +435,7 @@
       <workItem from="1488887860704" duration="4223000" />
       <workItem from="1488914347250" duration="15889000" />
       <workItem from="1488987934329" duration="15221000" />
-      <workItem from="1489303448140" duration="18232000" />
+      <workItem from="1489303448140" duration="18970000" />
     </task>
     <servers />
   </component>
@@ -585,7 +472,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93618000" />
+    <option name="totallyTimeSpent" value="94356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="-8" width="1869" height="1096" extended-state="6" />
@@ -645,7 +532,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/script.js" />
     <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/BruteforceCaptcha/ICONS_SYMBOL_sm.png" />
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/icons.jpg">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/icons.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -657,21 +544,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Sequence_Cesar/in.txt">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Sequence_Cesar/in.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
           <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito11Pommes/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito11Pommes/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito01Lion/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito01Lion/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="38" />
@@ -679,42 +566,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/debug/captcha.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/debug/captcha.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/left.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/left.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/right.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/right.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/in_real.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/in_real.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/out.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/out.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/in.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/in.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito06Oiseaux/in.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito06Oiseaux/in.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito09ceinture/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito09ceinture/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-469">
           <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -722,7 +609,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/CryptImageMelange/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/CryptImageMelange/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
@@ -730,7 +617,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Herculito06Oiseaux/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Herculito06Oiseaux/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -738,17 +625,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/Hercule06Oiseaux/red.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Hercule06Oiseaux/red.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/Hercule06Oiseaux/in.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Hercule06Oiseaux/in.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/TriangleAtomes/in.txt">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/TriangleAtomes/in.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="15" />
@@ -756,7 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/CollectorAltitude/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/CollectorAltitude/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -764,7 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/Herculito10Boeufs/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Herculito10Boeufs/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -797,7 +684,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/TriangleAtomes/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/TriangleAtomes/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -805,7 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/Hercule06Oiseaux/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Hercule06Oiseaux/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="35" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
@@ -813,22 +700,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/Hercule06Oiseaux/out.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/Hercule06Oiseaux/out.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Hercule05Ecuries/out.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Hercule05Ecuries/out.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Hercule05Ecuries/in.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Hercule05Ecuries/in.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/BruteforceCaptcha/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/BruteforceCaptcha/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-799">
           <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
@@ -836,7 +723,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Sequence_Cesar/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Sequence_Cesar/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
@@ -844,7 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/urlelectro/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/urlelectro/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -852,7 +739,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Hercule05Ecuries/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Hercule05Ecuries/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="50" column="19" lean-forward="false" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
@@ -860,7 +747,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/MatrixRevolutions/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/MatrixRevolutions/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
@@ -873,12 +760,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/MatrixRevolutions/in.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/MatrixRevolutions/in.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/MatrixRevolutions/in_sample.png">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/MatrixRevolutions/in_sample.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -891,19 +778,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/SteganoTexte/in.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/abandonned/SteganoTexte/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="63" column="45" lean-forward="false" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,10 +805,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Desamorcage01/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Desamorcage01/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Matrix/in.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/QuadrilleVille/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="112" column="18" lean-forward="true" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/LabyrintheDedale/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/succeeded/Matrix/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -947,34 +853,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/LabyrintheDedale/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/SteganoTexte/in.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/QuadrilleVille/script.js">
+    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/callicode/abandonned/SteganoTexte/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="112" column="18" lean-forward="true" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Matrix/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defis/kakawouette/succeeded/Matrix/in.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        <state relative-caret-position="278">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>

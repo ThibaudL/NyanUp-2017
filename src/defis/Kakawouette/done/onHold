@@ -1,0 +1,32 @@
+const fetch = require('node-fetch');
+
+const GET_POINT = "https://codingup.univ-poitiers.fr/gopoke/MachineLearning/C0MQFgMYQFVCFUpBKCg2VAYeARtQTEtAQ1xvHBEGLU1TKDZbCx4CAEVNU0dVQgUFbBtQUy5fTTdpAQABXlFfU1tdHAYDAi1NU0AwQBJrahpCU11AWlkeEAAGRE9DLkFMBm0dFys6XkJcVBwAHRddVUddW14HbR0XRTxfUzY3HwUJGUhWRl9NWQUeBwVFPF9TXzEeEGpsXVBDQ0NaAAUdF11WSl1YMR4QAmotTVNRAQNVWV8VSkFRGAwHU0deQhUVBxZPEQ==/getpoint";
+const REPONSE = "https://codingup.univ-poitiers.fr/gopoke/MachineLearning/C0MQFgMYQFVCFUpBKCg2VAYeARtQTEtAQ1xvHBEGLU1TKDZbCx4CAEVNU0dVQgUFbBtQUy5fTTdpAQABXlFfU1tdHAYDAi1NU0AwQBJrahpCU11AWlkeEAAGRE9DLkFMBm0dFys6XkJcVBwAHRddVUddW14HbR0XRTxfUzY3HwUJGUhWRl9NWQUeBwVFPF9TXzEeEGpsXVBDQ0NaAAUdF11WSl1YMR4QAmotTVNRAQNVWV8VSkFRGAwHU0deQhUVBxZPEQ==/reponse";
+
+let Memory = {};
+
+function searchUrl(){
+    fetch(GET_POINT)
+        .then((response) => response.json())
+        .then((json) => {
+            console.log(json)
+            console.log(Memory[json] ? 'Know it' : '');
+            fetch(REPONSE+'/'+(Memory[json] || 1))
+            .then((response) => response.json())
+            .then((json) => {
+                console.log(json)
+                if(json > 0) {
+                    Memory[json] = json;
+                    setTimeout(function () {
+                        searchUrl();
+                    }, 1000);
+                }
+            });
+        });
+}
+
+module.exports =  {
+    launch : () => {
+        searchUrl();
+    }
+};

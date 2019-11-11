@@ -19,7 +19,7 @@
     "get-pixels": "3.3.0",
     "htmlparser": "^1.7.7",
     "inquirer": "3.0.5",
-    "mathjs": "3.9.3",
+    "mathjs": "6.2.3",
     "node-rsa": "^0.4.2",
     "memoizee": "0.4.3",
     "mocha": "^3.2.0",

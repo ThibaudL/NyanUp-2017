@@ -4,8 +4,6 @@ const HttpsProxyAgent  = require('https-proxy-agent');
 
 const FIRST_URL = "https://callicode.fr/pydefis/UrlElectro/code/A1aA0EefCC";
 
-let agent = new HttpsProxyAgent ('http://mutpoit:8085');
-
 function searchUrl(url){
     fetch(url, { agent: agent})
         .then((response) => response.text())
